@@ -1,0 +1,7 @@
+mongoDbCredentials:
+  uri: mongodb+srv://hari:2248055@cluster0.kcf0i3d.mongodb.net/test?tls=true&tlsAllowInvalidCertificates=true
+  database: ProjectDataStore
+  collection: MyCollection
+
+Data:
+  json_data: data.json
